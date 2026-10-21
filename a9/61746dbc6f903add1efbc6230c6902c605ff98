@@ -1,0 +1,23 @@
+go.sum
+  s_59f84a45910603::t_c2441ec41f79de 252-253
+vendor/golang.org/x/crypto/x509roots/fallback/bundle/bundle.go
+  s_59f84a45910603::t_119c15cdac7fff 670,676,682,688,694,700,706
+vendor/modules.txt
+  s_59f84a45910603::t_dcd7b04aff10a4 462
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "a961746dbc6f903add1efbc6230c6902c605ff98",
+  "prompts": {},
+  "sessions": {
+    "s_59f84a45910603": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_ea1deaaa8ffeyPTTGWQJrIsufG",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Nuno Alves <nunoalves@cloudflare.com>"
+    }
+  }
+}
